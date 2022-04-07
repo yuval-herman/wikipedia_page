@@ -11,6 +11,7 @@
   border: 1px solid;
   padding: 5px;
   border-radius: 10px;
+  background-color: #e7e7e7;
 }
 
 hr {
@@ -20,6 +21,6 @@ hr {
 }
 
 body {
-  background-color: #ececec;
+  background-color: #ffffff;
   font-family: 'Roboto', sans-serif;
 }
