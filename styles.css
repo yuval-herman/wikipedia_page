@@ -18,3 +18,8 @@ hr {
   border-radius: 50%;
   background-color: black;
 }
+
+body {
+  background-color: Gainsboro;
+  font-family: 'Roboto', sans-serif;
+}
