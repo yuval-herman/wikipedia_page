@@ -1,0 +1,12 @@
+#quick_facts {
+  display: table;
+  width: 10%;
+  padding: 5px;
+  border: 1px solid;
+}
+
+#contents {
+  display: table;
+  padding: 20px;
+  border: 1px solid;
+}
