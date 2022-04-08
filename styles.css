@@ -20,6 +20,10 @@
   text-align: left;
 }
 
+.row {
+  display: flex;
+}
+
 #quick_facts {
   width: 30%;
   text-align: center;
