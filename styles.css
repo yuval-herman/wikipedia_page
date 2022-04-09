@@ -38,6 +38,10 @@
   padding: 20px;
 }
 
+a {
+  text-decoration: none;
+}
+
 p {
   margin: 5px;
 }
