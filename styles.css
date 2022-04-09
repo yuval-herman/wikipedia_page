@@ -38,6 +38,10 @@
   padding: 20px;
 }
 
+p {
+  margin: 5px;
+}
+
 hr {
   height: 0.2px;
   border-radius: 50%;
